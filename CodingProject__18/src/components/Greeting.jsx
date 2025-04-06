@@ -1,4 +1,4 @@
-import React from "react";
+import React from "react"; // creates react component
 
 function Greeting() {
     return (

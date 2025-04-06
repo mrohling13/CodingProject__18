@@ -3,9 +3,9 @@ import reactLogo from './assets/react.svg'
 import viteLogo from '/vite.svg'
 import './App.css'
 
-import React from 'react'
+import React from 'react' // imports react to create react component
 
-import Greeting from './components/Greeting'
+import Greeting from './components/Greeting' // imports greeting from the components folder
 
 function App() {
   const [count, setCount] = useState(0)
